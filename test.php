@@ -9,7 +9,7 @@ switch($day){
  case 2:
   $hari : "Tuesday";
   break;
-  case 3:
+ case 3:
   $hari : "Wednesday";
   break;
  case 4:
