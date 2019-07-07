@@ -25,7 +25,8 @@ switch($day){
   $hari : "Sunday";
   break;
  default :
-  print("End of the world");  
+  print="End of the world";
+}
   
   echo "today is $hari. <br>";
   echo "tomorrow is $next.";
