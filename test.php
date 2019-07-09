@@ -10,7 +10,7 @@ switch($day){
   $hari : "Selasa";
   break;
  case 3:
-  $hari : "Wednesday";
+  $hari : "rabu";
   break;
  case 4:
   $hari : "Kamis";
@@ -25,7 +25,7 @@ switch($day){
   $hari : "Minggu";
   break;
  default :
-  print="End of the world";
+  print="akhir dari dunia fitrah";
 }
   
   echo "today is $hari. <br>";
