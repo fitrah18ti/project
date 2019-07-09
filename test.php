@@ -16,10 +16,10 @@ switch($day){
   $hari : "Kamis";
   break;
  case 5:
-  $hari : "Friday";
+  $hari : "Jumat";
   break;
  case 6:
-  $hari : "Saturday";
+  $hari : "Sabtu";
   break;
  case 7:
   $hari : "Minggu";
