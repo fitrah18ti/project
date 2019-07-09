@@ -26,6 +26,7 @@ switch($day){
   break;
  default :
   print="akhir dari dunia fitrah";
+  print="Jangan gitu indahhhh";
 }
   
   echo "today is $hari. <br>";
