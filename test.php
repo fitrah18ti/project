@@ -4,7 +4,7 @@ $next = date('l' , strtotime('now + 1days'));
 
 switch($day){
  case 1:
-  $hari : "Monday";
+  $hari : "Senin";
   break;
  case 2:
   $hari : "Tuesday";
