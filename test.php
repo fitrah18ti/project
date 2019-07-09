@@ -7,13 +7,13 @@ switch($day){
   $hari : "Senin";
   break;
  case 2:
-  $hari : "Tuesday";
+  $hari : "Selasa";
   break;
  case 3:
   $hari : "Wednesday";
   break;
  case 4:
-  $hari : "Thursday";
+  $hari : "Kamis";
   break;
  case 5:
   $hari : "Friday";
@@ -22,7 +22,7 @@ switch($day){
   $hari : "Saturday";
   break;
  case 7:
-  $hari : "Sunday";
+  $hari : "Minggu";
   break;
  default :
   print="End of the world";
