@@ -33,3 +33,4 @@ switch($day){
   echo "tomorrow is $next.";
   echo "kerja kerja hen,-_-";
 ?>
+hjhjgghhjhj
